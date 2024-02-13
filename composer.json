@@ -1,0 +1,13 @@
+{
+    "name": "pvova21/vovchik",
+    "description": "Домашнее задание по Composer",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "pvova21"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
